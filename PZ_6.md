@@ -1,5 +1,5 @@
 # PZ_6
-## Задание 1
+## Задание 1 ##
 <img width="390" height="437" alt="Снимок экрана 2026-03-18 102839" src="https://github.com/user-attachments/assets/55001ffd-7f81-4982-860b-3a7cb2651fd1" />
 ## Задание 2
 <img width="551" height="474" alt="Снимок экрана 2026-03-18 102847" src="https://github.com/user-attachments/assets/d977bb8a-b298-41e9-9ffa-291722cabc3a" />
